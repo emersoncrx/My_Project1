@@ -1,24 +1,4 @@
-# README
--This README would normally document whatever steps are necessary to get the
-application up and running.
+Logbook:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# emersoncrx
+Day 1
+Fiz a configuração default do meu mini blog, e fiz alguns testes.
